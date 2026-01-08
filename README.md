@@ -1,0 +1,1 @@
+OblikDB is a MS SQL Server-based database system designed to manage human resources, employee performance, and payroll accounting for an organization. It supports complex salary structures, including both hourly and piecework payment models.
