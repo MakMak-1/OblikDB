@@ -1,0 +1,223 @@
+id,positionName,wageRate,category,payment
+1,Anesthetist,280,fahivets,pohodinna
+2,Cooper,390,fahivets,pohodinna
+3,Chimney sweep,314,fahivets,pohodinna
+4,Controller,419,fahivets,pohodinna
+5,Conductor (music),,robitnik,vidryadna
+6,Proofreader,251,fahivets,pohodinna
+7,Civil servant,50,slujbovets,pohodinna
+8,Editor,145,slujbovets,pohodinna
+9,Magistrate,345,fahivets,pohodinna
+10,Ferryman,253,robitnik,pohodinna
+11,Barber,469,fahivets,pohodinna
+12,Composer,144,fahivets,pohodinna
+13,Astronaut,,robitnik,vidryadna
+14,Web coder,454,fahivets,pohodinna
+15,Novelist,413,slujbovets,pohodinna
+16,Joiner,368,fahivets,pohodinna
+17,Auditor,174,slujbovets,pohodinna
+18,Juggler,332,slujbovets,pohodinna
+19,Watchmaker,373,slujbovets,pohodinna
+20,Cartographer,444,slujbovets,pohodinna
+21,Sales person,,robitnik,vidryadna
+22,Carpenter,128,fahivets,pohodinna
+23,Special agent,231,robitnik,pohodinna
+24,Merchant,185,slujbovets,pohodinna
+25,Chiropodist,272,fahivets,pohodinna
+26,Oncologist,246,fahivets,pohodinna
+27,Government agent,90,robitnik,pohodinna
+28,Dressman,142,slujbovets,pohodinna
+29,Coroner,283,fahivets,pohodinna
+30,Tanner,,robitnik,vidryadna
+31,Manservant,353,slujbovets,pohodinna
+32,Chief of Police,288,fahivets,pohodinna
+33,Art director,170,slujbovets,pohodinna
+34,Level designer (also Mapper),161,fahivets,pohodinna
+35,Marine,338,slujbovets,pohodinna
+36,Deputy (Law Enforcement),63,fahivets,pohodinna
+37,Scientist,482,robitnik,pohodinna
+38,Tax lawyer,494,fahivets,pohodinna
+39,Hydraulic engineer,392,fahivets,pohodinna
+40,Sailmaker,,robitnik,vidryadna
+41,Fishmonger,308,fahivets,pohodinna
+42,Information technologist,407,slujbovets,pohodinna
+43,Compasssmith,230,fahivets,pohodinna
+44,Dramatist,,robitnik,vidryadna
+45,Sheriff,435,fahivets,pohodinna
+46,Civil engineer,415,slujbovets,pohodinna
+47,Cooper,165,slujbovets,pohodinna
+48,Engine-driver,,robitnik,vidryadna
+49,Real estate investor,340,fahivets,pohodinna
+50,Author,56,slujbovets,pohodinna
+51,Geologist,314,fahivets,pohodinna
+52,Lyricist,147,slujbovets,pohodinna
+53,Oenologist,236,robitnik,pohodinna
+54,Food critic,149,slujbovets,pohodinna
+55,Hunter,397,slujbovets,pohodinna
+56,Fashion designer,73,fahivets,pohodinna
+57,Poll-taker,,robitnik,vidryadna
+58,Woodcarver,132,slujbovets,pohodinna
+59,Boatman,287,fahivets,pohodinna
+60,Perfumer,465,fahivets,pohodinna
+61,Guitarist,234,slujbovets,pohodinna
+62,Illusionist,495,fahivets,pohodinna
+63,Miller,497,fahivets,pohodinna
+64,Spy,,robitnik,vidryadna
+65,Cashier,383,robitnik,pohodinna
+66,Archbishop,,robitnik,vidryadna
+67,Industrial engineer,384,slujbovets,pohodinna
+68,Information broker,445,slujbovets,pohodinna
+69,Falconer,323,fahivets,pohodinna
+70,Bank teller,461,robitnik,pohodinna
+71,Food critic,64,slujbovets,pohodinna
+72,Greengrocer,95,robitnik,pohodinna
+73,Jeweller,,robitnik,vidryadna
+74,Neurologist,112,fahivets,pohodinna
+75,Insurer,448,fahivets,pohodinna
+76,First mate,315,slujbovets,pohodinna
+77,Blacksmith,51,slujbovets,pohodinna
+78,Oceanographer,179,slujbovets,pohodinna
+79,Actuary,,robitnik,vidryadna
+80,Flight technician,126,fahivets,pohodinna
+81,Loan officer,,robitnik,vidryadna
+82,Investment broker,356,slujbovets,pohodinna
+83,Muralist,152,fahivets,pohodinna
+84,Automobile racer,,robitnik,vidryadna
+85,Ordinary seaman,424,slujbovets,pohodinna
+86,Prison officer,203,slujbovets,pohodinna
+87,Revolutionary,171,fahivets,pohodinna
+88,Bartender,,robitnik,vidryadna
+89,Drummer,,robitnik,vidryadna
+90,Pathologist,157,slujbovets,pohodinna
+91,Laboratory worker,255,slujbovets,pohodinna
+92,Sonographer,,robitnik,vidryadna
+93,Law enforcement agent,75,fahivets,pohodinna
+94,Geometrician,456,fahivets,pohodinna
+95,Chief Financial Officer,402,slujbovets,pohodinna
+96,Ordinary seaman,261,fahivets,pohodinna
+97,Press officer,88,slujbovets,pohodinna
+98,Philanthropist,220,fahivets,pohodinna
+99,Physical therapist,119,fahivets,pohodinna
+100,Special agent,204,slujbovets,pohodinna
+101,Remedial teacher,70,slujbovets,pohodinna
+102,Taikonaut,458,robitnik,pohodinna
+103,Researcher,301,robitnik,pohodinna
+104,Goldsmith,,robitnik,vidryadna
+105,Mayor,344,slujbovets,pohodinna
+106,Stage designer,385,slujbovets,pohodinna
+107,Vintner,354,fahivets,pohodinna
+108,Construction foreman,282,robitnik,pohodinna
+109,Netmaker,272,fahivets,pohodinna
+110,Paralegal,302,fahivets,pohodinna
+111,Mayor,289,fahivets,pohodinna
+112,Karate master,46,slujbovets,pohodinna
+113,Doctor,408,fahivets,pohodinna
+114,Information technologist,122,fahivets,pohodinna
+115,Paramedic,342,slujbovets,pohodinna
+116,Composer,442,fahivets,pohodinna
+117,Customer service representative,73,fahivets,pohodinna
+118,Barber,474,slujbovets,pohodinna
+119,Florist,77,slujbovets,pohodinna
+120,Moonlighter,192,robitnik,pohodinna
+121,Hunter,244,fahivets,pohodinna
+122,Cashier,246,fahivets,pohodinna
+123,Crafter,372,fahivets,pohodinna
+124,Bounty hunter,317,fahivets,pohodinna
+125,Historian,481,robitnik,pohodinna
+126,Jailer,165,fahivets,pohodinna
+127,Loan officer,307,slujbovets,pohodinna
+128,Weaponsmith,124,slujbovets,pohodinna
+129,Thimbler,326,fahivets,pohodinna
+130,Scout,49,fahivets,pohodinna
+131,Harbourmaster,377,fahivets,pohodinna
+132,Fisherman,216,slujbovets,pohodinna
+133,Hitman,,robitnik,vidryadna
+134,Flight attendant,,robitnik,vidryadna
+135,Gofer,493,slujbovets,pohodinna
+136,Vintner,232,fahivets,pohodinna
+137,Monk,330,robitnik,pohodinna
+138,Animal Trainer,,robitnik,vidryadna
+139,Psychodramatist,,robitnik,vidryadna
+140,Musician,,robitnik,vidryadna
+141,Pilot,321,robitnik,pohodinna
+142,Accountant,162,robitnik,pohodinna
+143,Medic,481,slujbovets,pohodinna
+144,Hairstylist,84,slujbovets,pohodinna
+145,Courier,268,robitnik,pohodinna
+146,Mechanician,,robitnik,vidryadna
+147,Flautist,,robitnik,vidryadna
+148,Law enforcement agent,58,slujbovets,pohodinna
+149,Terminator,480,fahivets,pohodinna
+150,Medical laboratory scientist,244,fahivets,pohodinna
+151,Revolutionary,88,slujbovets,pohodinna
+152,Poulterer,,robitnik,vidryadna
+153,Image consultant,449,fahivets,pohodinna
+154,Kinesiologist,229,fahivets,pohodinna
+155,Manservant,179,fahivets,pohodinna
+156,Corrections officer,169,robitnik,pohodinna
+157,Boatman,383,fahivets,pohodinna
+158,Bailiff,,robitnik,vidryadna
+159,Ferryman,169,fahivets,pohodinna
+160,Screenwriter,235,robitnik,pohodinna
+161,Bacteriologist,56,robitnik,pohodinna
+162,Corrector,171,fahivets,pohodinna
+163,Sailmaker,81,fahivets,pohodinna
+164,Bounty hunter,469,fahivets,pohodinna
+165,Marine biologist,439,slujbovets,pohodinna
+166,Clerk,460,slujbovets,pohodinna
+167,Curator,489,slujbovets,pohodinna
+168,Firefighter,374,slujbovets,pohodinna
+169,Saucier,307,robitnik,pohodinna
+170,Bartender,,robitnik,vidryadna
+171,Spy,305,fahivets,pohodinna
+172,Cosmetologist,68,slujbovets,pohodinna
+173,Second mate,330,robitnik,pohodinna
+174,Radiographer,,robitnik,vidryadna
+175,Bureaucrat,426,slujbovets,pohodinna
+176,Lawyer,310,slujbovets,pohodinna
+177,Pornographer,220,fahivets,pohodinna
+178,Sales person,65,fahivets,pohodinna
+179,Acrobat,117,fahivets,pohodinna
+180,Poker player,108,robitnik,pohodinna
+181,Lighting technician,470,robitnik,pohodinna
+182,Law enforcement agent,49,slujbovets,pohodinna
+183,Medical transcriptionist,234,slujbovets,pohodinna
+184,Explorer,494,slujbovets,pohodinna
+185,Carpenter,,robitnik,vidryadna
+186,Servant,,robitnik,vidryadna
+187,Receptionist,112,robitnik,pohodinna
+188,Sailor,277,robitnik,pohodinna
+189,Automobile racer,306,slujbovets,pohodinna
+190,Principal,,robitnik,vidryadna
+191,General,,robitnik,vidryadna
+192,Shepherd,342,fahivets,pohodinna
+193,Occupational therapist,328,slujbovets,pohodinna
+194,Proctologist,,robitnik,vidryadna
+195,Janitor,230,slujbovets,pohodinna
+196,Mediator,56,robitnik,pohodinna
+197,Butler,,robitnik,vidryadna
+198,Film critic,248,slujbovets,pohodinna
+199,Nun,353,slujbovets,pohodinna
+200,Chief engineer,350,robitnik,pohodinna
+201,Head of department 1,350,kerivnyk,pohodinna
+202,Head of department 2,340,kerivnyk,pohodinna
+203,Head of department 3,330,kerivnyk,pohodinna
+204,Head of department 4,320,kerivnyk,pohodinna
+205,Head of department 5,310,kerivnyk,pohodinna
+206,Head of department 6,300,kerivnyk,pohodinna
+207,Head of department 7,290,kerivnyk,pohodinna
+208,Head of department 8,275,kerivnyk,pohodinna
+209,Head of department 9,355,kerivnyk,pohodinna
+210,Head of department 10,365,kerivnyk,pohodinna
+211,Head of department 11,385,kerivnyk,pohodinna
+212,Head of department 12,325,kerivnyk,pohodinna
+213,Head of department 13,295,kerivnyk,pohodinna
+214,Head of department 14,230,kerivnyk,pohodinna
+215,Head of department 15,210,kerivnyk,pohodinna
+216,Manager 1,420,kerivnyk,pohodinna
+217,Manager 2,430,kerivnyk,pohodinna
+218,Manager 3,425,kerivnyk,pohodinna
+219,Manager 4,440,kerivnyk,pohodinna
+220,Manager 5,450,kerivnyk,pohodinna
+221,Manager 6,465,kerivnyk,pohodinna
+222,CEO,600,kerivnyk,pohodinna
